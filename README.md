@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/aidugpt-banner.png" alt="aiduGPT v1.0" width="100%">
+</p>
+
 # aiduGPT⚕爱嘟白月光——网页版 ChatGPT / GPT-5.6 Luna 本地超级 Agent 智控中枢
 
 > **aidu Web-ChatGPT Local-Workspace Orchestrator**
@@ -197,3 +201,4 @@ Partially incorporates architecture adapted from Desktop Commander and local-wor
   <a href="https://aidupark.com" target="_blank"><b>aiduPARK⚕爱嘟乐园 · aidupark.com</b></a><br>
   <sub>专注 HERMES AGENT 的中文社区 · 爱马士们的实用百宝箱</sub>
 </p>
+
