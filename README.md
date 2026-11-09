@@ -151,7 +151,7 @@ chmod 600 ~/aiduGPT/.local/state/runtime-key
 ---
 
 <a name="-english-version"></a>
-# aiduGPT☤Aidu White Moonlight - Web-ChatGPT Local Super Agent Hub
+# aiduGPT·Aidu White Moonlight - Web-ChatGPT Local Super Agent Hub
 
 > **aidu Web-ChatGPT Local-Workspace Orchestrator**
 >
