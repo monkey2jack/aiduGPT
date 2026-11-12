@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aidugpt-banner.png" alt="aiduGPT v1.0" width="100%">
+  <img src="https://raw.githubusercontent.com/monkey2jack/monkey2jack/main/assets/aidu-human-connection-20261113.png" alt="aidu 人机连接" width="100%">
 </p>
 
 # <b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">GPT</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">白月光</b>——网页版 ChatGPT / GPT-5.6 Luna 本地超级 Agent 智控中枢
